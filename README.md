@@ -1,4 +1,1 @@
 # ExercicioA
-
-
-Lucas Pena Otero
